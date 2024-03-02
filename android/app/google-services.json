@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741620867136",
+    "project_id": "feedbackabhyaz",
+    "storage_bucket": "feedbackabhyaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741620867136:android:b42e6f5f86ee765cbb3fa5",
+        "android_client_info": {
+          "package_name": "com.example.feedback_abhyaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEn1J2WRcHlvuSQKFLbsHfYTH75Nk2A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
